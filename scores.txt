@@ -1,10 +1,1 @@
-Cheech Li, ContechLi Trivial Questions, Score: 10, 16.9029 seconds
-Cheech Li, ContechLi Trivial Questions, Score: 9, 18.8739 seconds
-Cheech Li, ContechLi Trivial Questions, Score: 10, 15.9664 seconds
-Cheech, ContechLi Trivial Questions, Score: 4, 2.80185 seconds
-Cheech, ContechLi Trivial Questions, Score: 4, 3.57827 seconds
-Cheech, ContechLi Trivial Questions 2024, Score: 5, 48.5779 seconds
-Cheech, ContechLi Trivial Questions, Score: 10, 14.3561 seconds
-Cheech, ContechLi Trivial Questions, Score: 9, 17.544 seconds
-Cheech, ContechLi Trivial Questions, Score: 10, 22.2323 seconds
-g, ContechLi Trivial Questions, Score: 4, 120.897 seconds
+Scores
